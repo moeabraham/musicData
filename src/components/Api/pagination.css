@@ -1,0 +1,22 @@
+.pagination{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    list-style:none;
+    /* margin-top:2rem; */
+    /* margin: 0 auto; */
+}
+
+.page-item{
+    border: 1px solid black;
+    border-radius: 15px;
+    width:2rem;
+    display:flex;
+
+
+}
+
+.page-item > a{
+    justify-content: center;
+    align-items: center;
+}
